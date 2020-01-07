@@ -33,7 +33,7 @@
   "dependencies": {
     "@material/dialog": "^2.0.0",
     "@material/fab": "^2.0.0",
-    "@material/select": "2.0.0",
+    "@material/select": "2.3.1",
     "@material/snackbar": "^2.0.0",
     "@material/toolbar": "^2.0.0"
   },
