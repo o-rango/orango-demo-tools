@@ -44,7 +44,7 @@
     "@stencil/sass": "latest",
     "@stencil/utils": "latest",
     "@types/jest": "24.0.12",
-    "@types/puppeteer": "2.0.0",
+    "@types/puppeteer": "5.4.3",
     "@types/cssnano": "^4.0.0",
     "cssnano": "^4.1.10",
     "autoprefixer": "^9.5.1",
