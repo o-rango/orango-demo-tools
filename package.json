@@ -31,10 +31,10 @@
     "test:e2e": "stencil test --spec --e2e"
   },
   "dependencies": {
-    "@material/dialog": "^2.0.0",
-    "@material/fab": "^2.0.0",
-    "@material/select": "2.0.0",
-    "@material/snackbar": "^2.0.0",
+    "@material/dialog": "^11.0.0",
+    "@material/fab": "^11.0.0",
+    "@material/select": "11.0.0",
+    "@material/snackbar": "^11.0.0",
     "@material/toolbar": "^2.0.0"
   },
   "devDependencies": {
