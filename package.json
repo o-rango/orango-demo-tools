@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "@babel/core": "7.4.4",
-    "@stencil/core": "1.0.0-alpha.20",
+    "@stencil/core": "2.6.0",
     "@stencil/postcss": "0.1.0",
     "@stencil/sass": "latest",
     "@stencil/utils": "latest",
